@@ -1,0 +1,14 @@
+namespace: "hora"
+name: "systools"
+version: "0.1.0"
+readme: "README.md"
+authors:
+    - "Holger Ratzel <holger@ratzel.org>"
+description: "Tools for system management."
+license:
+    - "GPL-3.0-or-later"
+tags:
+    - system
+    - tools
+dependencies: { }
+repository: "https://github.com/hora-42/ansible-collection-systools"
